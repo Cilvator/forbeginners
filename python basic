@@ -1,0 +1,9 @@
+x = str('test')
+y = int(8)
+
+i = 1j+8
+z = ["apple", "banana", "cherry"]
+
+print('this is my formule  :',i)
+
+print('here is my list :',z)
